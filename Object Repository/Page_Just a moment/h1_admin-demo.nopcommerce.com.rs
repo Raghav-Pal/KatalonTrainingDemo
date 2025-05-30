@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_admin-demo.nopcommerce.com</name>
+   <tag></tag>
+   <elementGuidId>34f0ac2f-0072-40aa-909c-d8796d5b4462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.zone-name-title.h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='admin-demo.nopcommerce.com needs to review the security of your connection before proceeding.'])[1]/preceding::h1[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Icon for admin-demo.nopcommerce.comadmin-demo.nopcommerce.com&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>f218d046-91fb-4734-97f5-1810ad91dd6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zone-name-title h1</value>
+      <webElementGuid>ebdc9743-cad8-495b-86c0-00d67a642c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>admin-demo.nopcommerce.com</value>
+      <webElementGuid>b6e1eac1-28e8-48f0-b961-9345b70c4980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content&quot;]/h1[@class=&quot;zone-name-title h1&quot;]</value>
+      <webElementGuid>e3c8511c-869b-450f-8dcc-aac36d2b069d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin-demo.nopcommerce.com needs to review the security of your connection before proceeding.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0fc4bb36-23be-4506-8cad-36a24fc2afba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification successful'])[1]/preceding::h1[1]</value>
+      <webElementGuid>30c3c2ff-1e90-4b02-ad61-44487a6cfafc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='admin-demo.nopcommerce.com']/parent::*</value>
+      <webElementGuid>70f397b7-a126-4fa6-a5bb-62006b40ecd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>a6090119-4772-43f5-8062-c7dde115c57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'admin-demo.nopcommerce.com' or . = 'admin-demo.nopcommerce.com')]</value>
+      <webElementGuid>b96d3b21-2f91-4b2b-b113-e36e0487b187</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

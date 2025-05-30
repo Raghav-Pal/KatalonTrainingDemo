@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>NumberToWords</name>
+   <tag></tag>
+   <elementGuidId>7d0fc1bd-9b26-4efa-99c3-146da44c8b98</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>true</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>text/xml; charset=utf-8</value>
+      <webElementGuid>cd0fbfb7-9c33-4257-876d-661cbb62474c</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>10.2.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <path></path>
+   <restRequestMethod></restRequestMethod>
+   <restUrl></restUrl>
+   <serviceType>SOAP</serviceType>
+   <soapBody>&lt;soap:Envelope xmlns:soap=&quot;http://www.w3.org/2003/05/soap-envelope&quot; xmlns:web=&quot;http://www.dataaccess.com/webservicesserver/&quot;>&#xd;
+   &lt;soap:Header/>&#xd;
+   &lt;soap:Body>&#xd;
+      &lt;web:NumberToWords>&#xd;
+         &lt;web:ubiNum>11&lt;/web:ubiNum>&#xd;
+      &lt;/web:NumberToWords>&#xd;
+   &lt;/soap:Body>&#xd;
+&lt;/soap:Envelope></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod>SOAP12</soapRequestMethod>
+   <soapServiceEndpoint>https://www.dataaccess.com/webservicesserver/numberconversion.wso</soapServiceEndpoint>
+   <soapServiceFunction>NumberToWords</soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>false</useServiceInfoFromWsdl>
+   <wsdlAddress>https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL</wsdlAddress>
+</WebServiceRequestEntity>

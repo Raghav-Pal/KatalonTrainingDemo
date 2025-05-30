@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test1</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>443d117e-8da5-4ffd-9c6a-2a2e82095a84</testCaseGuid>
+</TestCaseEntity>

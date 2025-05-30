@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>NumberToDollars</name>
+   <tag></tag>
+   <elementGuidId>5bfbb2f8-6630-4e86-bae5-834321ee9ec7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>true</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>text/xml; charset=utf-8</value>
+      <webElementGuid>1cb8f2f1-1d81-4e21-bd85-2ebc95043471</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>10.2.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <path></path>
+   <restRequestMethod></restRequestMethod>
+   <restUrl></restUrl>
+   <serviceType>SOAP</serviceType>
+   <soapBody>&lt;soap:Envelope xmlns:soap=&quot;http://www.w3.org/2003/05/soap-envelope&quot; xmlns:web=&quot;http://www.dataaccess.com/webservicesserver/&quot;>&#xd;
+   &lt;soap:Header/>&#xd;
+   &lt;soap:Body>&#xd;
+      &lt;web:NumberToDollars>&#xd;
+         &lt;web:dNum>1000.00&lt;/web:dNum>&#xd;
+      &lt;/web:NumberToDollars>&#xd;
+   &lt;/soap:Body>&#xd;
+&lt;/soap:Envelope></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod>SOAP12</soapRequestMethod>
+   <soapServiceEndpoint>https://www.dataaccess.com/webservicesserver/numberconversion.wso</soapServiceEndpoint>
+   <soapServiceFunction>NumberToDollars</soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>false</useServiceInfoFromWsdl>
+   <wsdlAddress>https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL</wsdlAddress>
+</WebServiceRequestEntity>

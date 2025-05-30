@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>data driven test</description>
+   <name>DataDrivenDemo</name>
+   <tag>data driven, test, qa</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52f81dc5-b1ac-4829-8c7e-f4a7fe519e52</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d64cc521-62ce-4c36-93ba-cbee9e6558b0</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData1</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d64cc521-62ce-4c36-93ba-cbee9e6558b0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>eef2369a-46e4-4abb-8613-114a63c3cdd1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d64cc521-62ce-4c36-93ba-cbee9e6558b0</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>741d8324-5ca2-4b80-bd52-c20207d154e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>eef2369a-46e4-4abb-8613-114a63c3cdd1</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>741d8324-5ca2-4b80-bd52-c20207d154e1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

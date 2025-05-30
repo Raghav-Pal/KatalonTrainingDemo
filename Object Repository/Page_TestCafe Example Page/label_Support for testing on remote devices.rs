@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Support for testing on remote devices</name>
+   <tag></tag>
+   <elementGuidId>d54a35ea-85ea-4e47-b893-69e6283d3951</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='main-form']/div/div/div/fieldset[2]/p/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Support for testing on remote devices&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8ac7fc93-0803-4990-8b86-c54d90ff8b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>remote-testing</value>
+      <webElementGuid>85d0f4a8-c434-4583-b91b-718378b1f95b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Support for testing on remote devices</value>
+      <webElementGuid>fd14677a-2b18-458e-a8fa-924c3e50f4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-form&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;column col-1&quot;]/fieldset[2]/p[1]/label[1]</value>
+      <webElementGuid>16a3d627-63e3-476a-8c35-b0cc7fbf44c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='main-form']/div/div/div/fieldset[2]/p/label</value>
+      <webElementGuid>6b636c4a-fca7-4534-a8bf-c0ac80041bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which features are important to you:'])[1]/following::label[1]</value>
+      <webElementGuid>9f722060-e8b5-4915-a869-75adf8f17737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your name:'])[1]/following::label[1]</value>
+      <webElementGuid>8c363a47-03e1-4717-bd1c-0a05eaf409d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-using existing JavaScript code for testing'])[1]/preceding::label[1]</value>
+      <webElementGuid>01848a7e-d8a5-48b6-ba37-8af8fe8a857f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Running tests in background and/or in parallel in multiple browsers'])[1]/preceding::label[2]</value>
+      <webElementGuid>56ddcd25-cf33-4a52-9f5a-118db6f8181c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Support for testing on remote devices']/parent::*</value>
+      <webElementGuid>cf9a687f-ec29-4148-924d-53f9e2201325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>dab4e25d-43d6-4e92-8634-b961309eacd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Support for testing on remote devices' or . = 'Support for testing on remote devices')]</value>
+      <webElementGuid>41c79d08-b8f8-4022-b6bf-044b0100944a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

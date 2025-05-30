@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e1f6010-788c-4a09-981f-f16ae751b5e1</testCaseGuid>
+</TestCaseEntity>

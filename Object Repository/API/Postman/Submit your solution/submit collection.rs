@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>submit collection</name>
+   <tag></tag>
+   <elementGuidId>18f31075-980f-4488-be65-48668e1ba20e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-api-key</name>
+      <type>Main</type>
+      <value>${postman_api_key}</value>
+      <webElementGuid>62930f97-28b8-4ad4-9e3d-cdaaf1997497</webElementGuid>
+   </httpHeaderProperties>
+   <katalonVersion>10.2.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>https://api.getpostman.com/collections/36206319-e85f30a4-3add-409f-a566-5c1d64c0a0e4</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <variables>
+      <defaultValue>GlobalVariable.postman_api_key</defaultValue>
+      <description></description>
+      <id>b2be473b-7e7d-48e3-bc6d-a4ac6d0d1223</id>
+      <masked>false</masked>
+      <name>postman_api_key</name>
+   </variables>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>
